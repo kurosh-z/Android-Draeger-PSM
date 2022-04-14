@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-481242755/Android-BLE-Library.iml" filepath="$PROJECT_DIR$/.idea/modules/-481242755/Android-BLE-Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1131980233/Android-BLE-Library.ble.iml" filepath="$PROJECT_DIR$/.idea/modules/1131980233/Android-BLE-Library.ble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/318212719/Android-BLE-Library.ble-common.iml" filepath="$PROJECT_DIR$/.idea/modules/318212719/Android-BLE-Library.ble-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-406540757/Android-BLE-Library.ble-ktx.iml" filepath="$PROJECT_DIR$/.idea/modules/-406540757/Android-BLE-Library.ble-ktx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1414948326/Android-BLE-Library.ble-livedata.iml" filepath="$PROJECT_DIR$/.idea/modules/-1414948326/Android-BLE-Library.ble-livedata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1697230120/Android-BLE-Library.example.iml" filepath="$PROJECT_DIR$/.idea/modules/-1697230120/Android-BLE-Library.example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1083288264/Android-BLE-Library.example.ble-gatt-client.iml" filepath="$PROJECT_DIR$/.idea/modules/-1083288264/Android-BLE-Library.example.ble-gatt-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-631402320/Android-BLE-Library.example.ble-gatt-server.iml" filepath="$PROJECT_DIR$/.idea/modules/-631402320/Android-BLE-Library.example.ble-gatt-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1100794517/Android-Scanner-Compat-Library.iml" filepath="$PROJECT_DIR$/.idea/modules/-1100794517/Android-Scanner-Compat-Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1396100442/Android-Scanner-Compat-Library.scanner.iml" filepath="$PROJECT_DIR$/.idea/modules/1396100442/Android-Scanner-Compat-Library.scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/848888820/Android-nRF-Blinky.iml" filepath="$PROJECT_DIR$/.idea/modules/848888820/Android-nRF-Blinky.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-nRF-Blinky.app.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-nRF-Blinky.app.iml" />
+    </modules>
+  </component>
+</project>

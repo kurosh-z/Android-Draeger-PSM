@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: no.nordicsemi.android:log:2.3.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2f5f5e8bb809e4f8c83b2f9a5403807a/transformed/log-2.3.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d68bc2cdf1e803d20144ec808350236e/transformed/log-2.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2f5f5e8bb809e4f8c83b2f9a5403807a/transformed/log-2.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2f5f5e8bb809e4f8c83b2f9a5403807a/transformed/log-2.3.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2f5f5e8bb809e4f8c83b2f9a5403807a/transformed/log-2.3.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/no.nordicsemi.android/log/2.3.0/7db80bb45ccaeff678b399dd5b1b6a3c7e85b614/log-2.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/no.nordicsemi.android/log/2.3.0/c17bc7dba10a7bc4617244c352227281a35095c7/log-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
